@@ -1,18 +1,7 @@
-# OCR Bot [@Image_To_Text_OCR_Bot](https://t.me/Image_To_Text_OCR_Bot)
-
-> A star ⭐ from you means a lot to us!
-
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/OCRBot"><img src="https://telegra.ph/file/243d5cb02e7aa0384358f.jpg" width="5000"></a></p>
-
-Telegram bot to extract text from image
-
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-## Usage
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/OCRBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hydrayt777/OCRBot-Tgt.git)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN`.
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
