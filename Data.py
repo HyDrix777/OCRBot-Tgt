@@ -15,7 +15,7 @@ class Data:
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("🔴 XmN", url="https://t.me/Stadudjeidn")],
+        [InlineKeyboardButton("📣 Channel", url="https://t.me/Tg_Galaxy")],
         [InlineKeyboardButton(text="🏠 Returne Home", callback_data="home")],
     ]
     # Rest Buttons
@@ -24,11 +24,11 @@ class Data:
             InlineKeyboardButton("📣 Channel", url="https://t.me/Tg_Galaxy")
         ],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🆘 About", callback_data="about")
+            InlineKeyboardButton("Help 🆘", callback_data="help"),
+            InlineKeyboardButton("🌟 About", callback_data="about")
         ],
-        [InlineKeyboardButton("♦️ TGX ♦️", url="https://t.me/Seyicndgsk")],
-        [InlineKeyboardButton("👥 Group", url="https://t.me/Starkddkdjdjdnxc")],
+        [InlineKeyboardButton("🤖 GBS", url="https://t.me/Galaxy_bots")],
+        
     ]
 
     # Help Message
@@ -48,7 +48,7 @@ More features in development. Keep track by kig jonkun
 
 Bot X 
 
-Source Code : [Click Here](https://github.com/Strokies/Cj7Bot)
+GMX : [Click Here](https://t.me/Tgsj_Galasjjhsxy)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
